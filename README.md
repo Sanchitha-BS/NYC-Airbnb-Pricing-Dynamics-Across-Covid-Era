@@ -1,4 +1,4 @@
-# NYC-Airbnb-Pricing-Dynamics-Across-Covid-Ero
+# NYC-Airbnb-Pricing-Dynamics-Across-Covid-Era
 
 > **A data visualization study** examining how Airbnb nightly prices shifted across New York City's five boroughs before, during, and after COVID-19 — analyzing 25,000+ listings across room types, price tiers, and neighborhoods to reveal uneven market recovery patterns.
 
